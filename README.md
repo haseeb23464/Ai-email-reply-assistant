@@ -621,13 +621,15 @@ These features are intentionally out of scope for the MVP but could be added:
 
 **Talha Muhammad Haseeb**
 - GitHub: [@haseeb23464](https://github.com/haseeb23464)
+- Email : haseeb.23464@gmail.com
 
 **Zeeshan Ali**
 - GitHub: [@z-shan-code](https://github.com/z-shan-code)
+- Email : zeeshan.work191@gmail.com 
 
 **Amar Shairwan**
 - GitHub: [@Amar-Ai01](https://github.com/Amar-Ai01)
----
+- Email : sharidev66@gmail.com
 
 Built as a mini-hackathon project to demonstrate a clean Streamlit → FastAPI → Gemini architecture. See [SPEC.md](SPEC.md) for the full technical specification.
 
