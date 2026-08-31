@@ -620,14 +620,17 @@ These features are intentionally out of scope for the MVP but could be added:
 ## 👥 Authors
 
 **Talha Muhammad Haseeb**
+- Linkedin : https://www.linkedin.com/in/talha-muhammed-haseeb-711653397
 - GitHub: [@haseeb23464](https://github.com/haseeb23464)
 - Email : haseeb.23464@gmail.com
 
 **Zeeshan Ali**
+- Linkedin : https://www.linkedin.com/in/zeeshan-ali11/
 - GitHub: [@z-shan-code](https://github.com/z-shan-code)
 - Email : zeeshan.work191@gmail.com 
 
 **Amar Shairwan**
+- Linkedin : https://www.linkedin.com/in/amarshairwan
 - GitHub: [@Amar-Ai01](https://github.com/Amar-Ai01)
 - Email : sharidev66@gmail.com
 
